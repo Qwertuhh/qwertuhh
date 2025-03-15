@@ -47,7 +47,6 @@ I'm a dedicated student passionate about learning Python libraries and AI engine
 <div align="center" style="margin: auto;">
   
   <img  height=200 src="https://github-readme-stats.vercel.app/api?username=qwertuhh&theme=tokyonight&show_icons=true&hide_border=false&height=count_private=true" alt="qwertuhh's Stats" width="400">
-  <img  height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=qwertuhh&theme=tokyonight&hide_border=false" alt="qwertuhh's Streak" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertuhh&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="qwertuhh's Top Languages" width="400">
 
 
