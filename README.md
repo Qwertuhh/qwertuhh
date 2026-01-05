@@ -67,17 +67,11 @@ I'm a dedicated student passionate about learning Python libraries and AI engine
   <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/loki-0E5A8A?style=for-the-badge&logo=grafana-loki&logoColor=white" alt="Loki">
+  <img src="https://img.shields.io/badge/tempo-4ABDD2?style=for-the-badge&logo=grafana-tempo&logoColor=white" alt="Tempo">
+  <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
 </p>
-
-
----------------------------------------------
-
-<!-- stats -->
-<div align="center" style="margin: auto;">
-  
-  <img  height=200 src="https://github-readme-stats.vercel.app/api?username=qwertuhh&theme=tokyonight&show_icons=true&hide_border=false&height=count_private=true" alt="qwertuhh's Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertuhh&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="qwertuhh's Top Languages" width="400">
-
 
 ----------------------------------------------------------------------
 
