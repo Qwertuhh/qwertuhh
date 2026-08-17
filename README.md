@@ -1,8 +1,11 @@
-<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Qwertuhh</h1>  
+<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Arihant Jain</h1>  
+<p>AKA Qwertuhh</p>
 
 <div align="center" margin="auto" width="100%" height="auto">
 <img  src="assets/banner.png" alt="banner" width="100%" height="auto"/></a>
 </div>
+
+<a href="https://arihantdotcom.netlify.app/">Portfolio Website</a>
 
 -------------------------------------
 
